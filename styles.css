@@ -20,3 +20,15 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+#videoPlayer{
+    width: 100%;
+    
+}
+#downloadLink{
+    text-decoration: none;
+    padding:20px;
+    display: block;
+    color: white;
+    background-color: #0074d9;
+}
